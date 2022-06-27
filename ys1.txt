@@ -1,8 +1,4 @@
 ﻿{
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar",
-"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider.jar",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar",
 "sites": [ { "key": "csp_77","name": "77(SP)", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 },
              { "key": "csp_Cokemv", "name": "焦炭（SP）", "type": 3,
       "api": "csp_Cokemv",
@@ -2094,5 +2090,7 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ]
+  ],
+"spider": 
+"https://wp.wangshi520.com/down.php/0b697e824fb3cbb4a5259c1f51cdea36.jar"
 }
