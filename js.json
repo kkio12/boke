@@ -1,5 +1,5 @@
 ﻿{
-    "spider" : "www.jsjwl.top/proxy.jar",
+    "spider" : "http://www.jsjwl.top/proxy.jar",
     "sites" : [
             {
             "key" : "drpy_js_360影视",
